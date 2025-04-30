@@ -59,10 +59,10 @@ cybersecurity-labs/
 - **Kali Linux**: TryHackMe, Kali tools documentation
 - **AWS**: AWS Free Tier, AWS Skill Builder
 
-## 📬 Connect With Me
-
-[LinkedIn Profile](https://linkedin.com/in/YOURHANDLE) - Follow my cybersecurity journey!
-
+## 📬 Connect With Us
+Follow my cybersecurity journey!
+[LinkedIn Profile](https://linkedin.com/in/YOURHANDLE) - Haidari Alhaidari
+[LinkedIn Profile](https://linkedin.com/in/YOURHANDLE) - Olamide Adenuga
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
