@@ -1,6 +1,6 @@
 # Cybersecurity Labs Portfolio
 
-Welcome to my cybersecurity labs portfolio! This repository showcases my hands-on experience with various cybersecurity tools and concepts through practical labs and documentation.
+Welcome to our cybersecurity labs portfolio! This repository showcases our hands-on experience with various cybersecurity tools and concepts through practical labs and documentation.
 
 ## 🎯 Project Goals
 
