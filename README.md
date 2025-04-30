@@ -60,8 +60,8 @@ cybersecurity-labs/
 - **AWS**: AWS Free Tier, AWS Skill Builder
 
 ## 📬 Connect With Us
-Follow my cybersecurity journey!
-[LinkedIn Profile](https://linkedin.com/in/YOURHANDLE) - Haidari Alhaidari
+Follow our cybersecurity journies!\
+[LinkedIn Profile](https://linkedin.com/in/YOURHANDLE) - Haidari Alhaidari\
 [LinkedIn Profile](https://linkedin.com/in/YOURHANDLE) - Olamide Adenuga
 ## 📄 License
 
